@@ -2,15 +2,20 @@
 /shelf/
 /workspace.xml
 .idea/
-pytest_ex/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 #Env
 *.env
+
 # C extensions
 *.so
+
+# files for test
+pytest_ex/myfile.txt
 
 # Distribution / packaging
 .Python
